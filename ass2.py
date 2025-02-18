@@ -97,7 +97,7 @@ def save_quote_and_weather():
 # Part 5: Send Email with Quote, Weather, Stock Data, and Attachments
 def send_email():
     sender_email = "ashmitashrestha613@gmail.com"
-    receiver_email = "prakritikhatri2020@gmail.com"
+    receiver_email = "ruman.metahorizon@gmail.com"
     password = "jiii huih iuyd"
     
     # Fetch quote, weather, and top 10 stock data
